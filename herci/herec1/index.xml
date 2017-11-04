@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Herec1 on Vánoční pohádky</title>
+    <link>http://vanocnipohadka.cz/herci/herec1/</link>
+    <description>Recent content in Herec1 on Vánoční pohádky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    
+	<atom:link href="http://vanocnipohadka.cz/herci/herec1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
